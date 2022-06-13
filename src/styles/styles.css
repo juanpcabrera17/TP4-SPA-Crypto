@@ -77,6 +77,7 @@ body {
   display: block;
   animation-duration: 2s;
   animation-name: fade;
+  background-color: rgb(58, 147, 226);
 }
 
 .Coins-item img {
@@ -86,24 +87,24 @@ body {
 }
 
 .Coins-item h2 {
-  font-size: 18px;
-  font-weight: 300;
-  padding: 10px 10px;
+  font-size: 22px;
+  font-weight: bold;
+  padding: 10px 24px;
   display: flex;
   justify-content: space-between;
 }
 
 .Coins-item p {
   font-size: 15px;
-  font-weight: 300;
-  padding: 10px 10px;
+  font-weight: 600;
+  padding: 10px 26px;
   display: flex;
   justify-content: space-between;
 }
 
 .Coins-item a {
   text-decoration: none;
-  color: #026C86;
+  color: #c3e9f3;
 }
 
 @keyframes fade {

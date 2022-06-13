@@ -1,13 +1,13 @@
 {
     "name": "cryptoapp",
     "version": "1.0.0",
-    "description": "SPA Vinilla ",
+    "description": "TP4-SPA-Crypto",
     "main": "index.js",
     "scripts": {
         "build": "webpack --mode production",
         "start": "webpack-dev-server --open --mode development"
     },
-    "author": "ernesto ledesma",
+    "author": "Juan Pablo Cabrera",
     "license": "ISC",
     "devDependencies": {
         "@babel/core": "^7.11.6",
